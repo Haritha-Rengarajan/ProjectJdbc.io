@@ -1,0 +1,186 @@
+.topnav {
+    background-color: SteelBlue;
+    overflow: hidden;
+  }
+  
+  img {
+    padding-top: 15px;
+    height: 35px;
+    width: 35px;
+  }
+  
+  body {
+    margin: 0px;
+    font-family: Segoe UI, Arial, Helvetica, sans-serif;
+  }
+  
+  .page-title {
+    font-size: 170%; 
+    font-weight: bold;
+    padding-left: 17px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+  }
+  
+  .footer{
+    background-color: darkgrey;
+    overflow: hidden;
+    padding: 14px 16px;
+    font-size: 17px;
+    color: black;
+    position: fixed;
+    left: 0px;
+    bottom: 0px;
+    width: 100%;
+  }
+  
+  .topnav a {
+    float: right;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  .topnav div {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 25px;
+  }
+  
+  .home {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  table {
+    margin-top: 15px;
+    width:100%;
+  }
+   
+  th, td {
+    padding: 15px;
+    text-align: left;
+  }
+  
+  .button {
+    font-family: Segoe UI, Arial, Helvetica, sans-serif;
+    margin-top: 15px;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+  
+  .success-button {
+    background-color: SteelBlue;
+  }
+  
+  .message {
+    margin-top: 15px;
+    color:#8c8c8c;
+    font-size: 20px;
+  }
+  
+  .success-message {
+    margin-top: 15px;
+    color:green;
+    font-size: 20px;
+    text-align: center;
+  }
+  
+  .text-box {
+    padding: 12px 20px;
+    margin: 8px 0px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+  
+  .text-box-title{
+    width: 1200px;
+  }
+  
+  .body-content-colour {
+    border-radius: 5px;
+    background-color: #f2f2f2; 
+    padding: 20px;
+  }
+  
+  .form-field-spacing {
+    margin-right: 100px;
+    display: inline-block;
+    box-sizing: border-box;
+  }
+  
+  .currency {
+    text-align: right;
+  }
+  
+  .total {
+    font-weight: bold;
+    text-align: left;
+  }
+  
+  .radio {
+    margin: 16px 0px;
+  }
+  
+  .dropdown {
+    margin: 10px 0px;
+    font-family: Segoe UI, Arial, Helvetica, sans-serif;
+    height: 40px;
+    border-radius: 4px;
+  }
+
+  .content {
+    margin-left:20px;
+  }
+
+  .item{
+    text-align:center;
+    color:green;
+  }
+
+  .status{
+    font-weight: bold;
+    margin-left:40px;
+    color:green;
+  }
+
+  .notification{
+    text-align:center;
+    color:green;
+    font-weight: bold;
+  }
+
+ /*  .notification1{
+    margin: 600px;
+    color:green;
+    font-weight: bold;
+  }
+ */
+  h1{
+    margin-left:16px;
+  }
+  .customer-list{
+    margin-left:5px;
+    color:gray;
+  }
+  
+  .fcolor{
+    color:black;
+  }
